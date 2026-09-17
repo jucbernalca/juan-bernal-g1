@@ -7,7 +7,7 @@ load_dotenv()
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 GLM_API_KEY = os.getenv("GLM_API_KEY", "")
-GLM_API_BASE_URL = os.getenv("GLM_API_BASE_URL", "https://open.bigmodel.cn/api/paas/v4")
+GLM_API_BASE_URL = os.getenv("GLM_API_BASE_URL", "http://149.232.135.126:4000/v1")
 GLM_MODEL = os.getenv("GLM_MODEL", "glm-5.2")
 GLM_TIMEOUT = int(os.getenv("GLM_TIMEOUT", "30"))
 GLM_MAX_RETRIES = int(os.getenv("GLM_MAX_RETRIES", "3"))
