@@ -1,0 +1,142 @@
+[
+  {
+    "ticket_id": "T-10001",
+    "customer_id": "ACME-CO",
+    "created_at": "2026-09-16T08:15:00Z",
+    "region": "latam-north",
+    "text": "Desde la actualizacion ninguno de nuestros usuarios puede entrar con SSO. Somos 2300 usuarios y tenemos cierre contable hoy."
+  },
+  {
+    "ticket_id": "T-10002",
+    "customer_id": "TECHCORP",
+    "created_at": "2026-09-16T08:16:00Z",
+    "region": "latam-north",
+    "text": "La API en latam-north responde 503 en aproximadamente la mitad de las llamadas desde el deploy de esta manana."
+  },
+  {
+    "ticket_id": "T-10003",
+    "customer_id": "GLOBAL-INC",
+    "created_at": "2026-09-16T08:17:00Z",
+    "region": "latam-north",
+    "text": "Nuestro checkout dejo de funcionar porque las llamadas a ATLAS fallan 503. No podemos procesar ordenes."
+  },
+  {
+    "ticket_id": "T-10004",
+    "customer_id": "DATAWORKS",
+    "created_at": "2026-09-16T08:18:00Z",
+    "region": "latam-north",
+    "text": "50% de las requests a la API estan fallando en la region norte despues del despliegue."
+  },
+  {
+    "ticket_id": "T-10005",
+    "customer_id": "CLOUDSYS",
+    "created_at": "2026-09-16T08:19:00Z",
+    "region": "latam-north",
+    "text": "Despues del deploy, latam-north esta intermitente. La API devuelve 503 aleatoriamente."
+  },
+  {
+    "ticket_id": "T-10006",
+    "customer_id": "FINANCE-CO",
+    "created_at": "2026-09-16T08:20:00Z",
+    "region": "emea",
+    "text": "Nos llego una factura con dos cargos por la misma licencia anual. Solicito correccion urgente."
+  },
+  {
+    "ticket_id": "T-10007",
+    "customer_id": "DESIGN-TEAM",
+    "created_at": "2026-09-16T08:21:00Z",
+    "region": "latam-south",
+    "text": "Seria excelente poder cambiar la aplicacion a modo oscuro. Es algo que todo el equipo pide."
+  },
+  {
+    "ticket_id": "T-10008",
+    "customer_id": "BANK-CORP",
+    "created_at": "2026-09-16T08:22:00Z",
+    "region": "emea",
+    "text": "Exportar el reporte financiero a CSV devuelve error 500 desde el despliegue de esta manana."
+  },
+  {
+    "ticket_id": "T-10009",
+    "customer_id": "MANUFACT-INC",
+    "created_at": "2026-09-16T08:23:00Z",
+    "region": "latam-south",
+    "text": "Nuestro conector ERP dejo de sincronizar pedidos desde las 08:15. Tenemos 500 pedidos pendientes."
+  },
+  {
+    "ticket_id": "T-10010",
+    "customer_id": "STARTUP-X",
+    "created_at": "2026-09-16T08:24:00Z",
+    "region": "latam-north",
+    "text": "No puedo acceder a mi cuenta. Me aparece un error 403 forbidden."
+  },
+  {
+    "ticket_id": "T-10011",
+    "customer_id": "ENTERPRISE-Y",
+    "created_at": "2026-09-16T08:25:00Z",
+    "region": "emea",
+    "text": "Los 1800 usuarios de nuestra empresa no pueden iniciar sesion con SSO desde esta manana."
+  },
+  {
+    "ticket_id": "T-10012",
+    "customer_id": "RETAIL-CO",
+    "created_at": "2026-09-16T08:26:00Z",
+    "region": "latam-north",
+    "text": "La API responde 503 intermitentemente. Nuestros servicios dependen de ATLAS y estan degradados."
+  },
+  {
+    "ticket_id": "T-10013",
+    "customer_id": "MEDIAGROUP",
+    "created_at": "2026-09-16T08:27:00Z",
+    "region": "latam-south",
+    "text": "La sincronizacion con nuestro ERP se detuvo despues de la actualizacion. Pedidos no llegan."
+  },
+  {
+    "ticket_id": "T-10014",
+    "customer_id": "CONSULT-Z",
+    "created_at": "2026-09-16T08:28:00Z",
+    "region": "emea",
+    "text": "Hola, queria saber si hay alguna forma de exportar los datos a Excel, no solo CSV."
+  },
+  {
+    "ticket_id": "T-10015",
+    "customer_id": "SECURE-CO",
+    "created_at": "2026-09-16T08:29:00Z",
+    "region": "latam-north",
+    "text": "Detectamos actividad sospechosa en nuestra cuenta. Creemos que hubo un acceso no autorizado. Es urgente."
+  },
+  {
+    "ticket_id": "T-10016",
+    "customer_id": "UNKNOWN-CO",
+    "created_at": "2026-09-16T08:30:00Z",
+    "region": "latam-north",
+    "text": "Tengo un problema."
+  },
+  {
+    "ticket_id": "T-10017",
+    "customer_id": "LOGISTICS-PRO",
+    "created_at": "2026-09-16T08:31:00Z",
+    "region": "emea",
+    "text": "La integracion con SAP dejo de funcionar. Los pedidos no se sincronizan desde la actualizacion."
+  },
+  {
+    "ticket_id": "T-10018",
+    "customer_id": "HEALTH-ORG",
+    "created_at": "2026-09-16T08:32:00Z",
+    "region": "latam-north",
+    "text": "El sistema esta completamente inaccesible. Todos nuestros medicos no pueden acceder a los registros de pacientes."
+  },
+  {
+    "ticket_id": "T-10019",
+    "customer_id": "EDU-PLATFORM",
+    "created_at": "2026-09-16T08:33:00Z",
+    "region": "latam-south",
+    "text": "Gracias por la rapida respuesta del equipo de soporte. Excelente servicio."
+  },
+  {
+    "ticket_id": "T-10020",
+    "customer_id": "AUTO-CORP",
+    "created_at": "2026-09-16T08:34:00Z",
+    "region": "emea",
+    "text": "Las exportaciones a CSV fallan con error 500. Necesitamos los reportes para la auditoria de manana."
+  }
+]

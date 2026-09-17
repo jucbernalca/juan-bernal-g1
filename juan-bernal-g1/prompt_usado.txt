@@ -1,0 +1,42 @@
+================================================================================
+PROMPTS UTILIZADOS EN EL DESARROLLO DEL RETO ATLAS CLOUD // SIGNAL-80
+================================================================================
+
+--------------------------------------------------------------------------------
+PROMPT #1 — Inicial (solicitud del usuario)
+--------------------------------------------------------------------------------
+Fecha: 2026-09-17
+
+Necesito desarrollar una aplicación para gestión de tickets. Accede al repositorio
+https://github.com/huawei-cloud-colombia/Huawei_hackaton/blob/main/Retos/RETO_1_ATLAS_CLOUD_SIGNAL.md
+y lee las instrucciones. Desarrolla un plan de trabajo para desarrollar las fases.
+Almacena los prompt que te proporciono en el archivo 'prompt_usado.txt'.
+
+--------------------------------------------------------------------------------
+PROMPT #2 — Desarrollo de la aplicación (solicitud del usuario)
+--------------------------------------------------------------------------------
+Fecha: 2026-09-17
+
+Desarrolla la aplicación utilizando streamlit. Crea un ambiente virtual. Las
+librerías necesarias agrégalas a archivo de requerimientos.
+
+--------------------------------------------------------------------------------
+PROMPT #3 — Prompt principal de clasificación (GLM 5.2 - Fase 1)
+--------------------------------------------------------------------------------
+[Por definir durante la implementación de la Fase 1]
+
+--------------------------------------------------------------------------------
+PROMPT #3 — Prompt de correlación de tickets (GLM 5.2 - Fase 3)
+--------------------------------------------------------------------------------
+[Por definir durante la implementación de la Fase 3]
+
+--------------------------------------------------------------------------------
+PROMPT #4 — Prompt de brief ejecutivo (GLM 5.2 - Bono D)
+--------------------------------------------------------------------------------
+[Por definir durante la implementación del Bono D]
+
+================================================================================
+NOTA: Este archivo se actualizará conforme se desarrollen las fases del reto.
+      Cada prompt utilizado con GLM 5.2 debe documentarse aquí como evidencia
+      del uso efectivo del modelo durante el desarrollo.
+================================================================================
