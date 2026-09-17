@@ -1,0 +1,16 @@
+[
+  {
+    "ticket_id": "T-10001",
+    "customer_id": "ACME-CO",
+    "created_at": "2026-09-16T08:15:00Z",
+    "region": "latam-north",
+    "text": "Desde la actualizacion ninguno de nuestros usuarios puede entrar con SSO. Somos 2300 usuarios y tenemos cierre contable hoy."
+  },
+  {
+    "ticket_id": "T-10002",
+    "customer_id": "TECHCORP",
+    "created_at": "2026-09-16T08:16:00Z",
+    "region": "latam-north",
+    "text": "La API en latam-north responde 503 en aproximadamente la mitad de las llamadas desde el deploy de esta manana."
+  }
+]
